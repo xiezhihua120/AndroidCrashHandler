@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CrashHandlerDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="generateANR">生成ANR</string>
+    <string name="title_activity_send_crash">SendCrashActivity</string>
+    <string name="send_crash">发送Crash</string>
+
+</resources>
