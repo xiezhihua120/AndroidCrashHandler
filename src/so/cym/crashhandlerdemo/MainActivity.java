@@ -19,7 +19,7 @@ public class MainActivity extends Activity {
 	 * 点击按钮后故意产生崩溃
 	 * @param view
 	 */
-	public void generateAnr(View view){
+	public void generateCrash(View view){
 		int a = 2/0;
 	}
 

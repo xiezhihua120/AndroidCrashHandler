@@ -3,8 +3,8 @@
 
     <string name="app_name">CrashHandlerDemo</string>
     <string name="action_settings">Settings</string>
-    <string name="generateANR">生成ANR</string>
+    <string name="generateCrash">产生崩溃</string>
     <string name="title_activity_send_crash">SendCrashActivity</string>
-    <string name="send_crash">发送Crash</string>
+    <string name="send_crash">发送崩溃信息</string>
 
 </resources>

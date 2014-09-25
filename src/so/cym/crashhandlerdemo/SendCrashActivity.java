@@ -68,7 +68,7 @@ public class SendCrashActivity extends Activity {
 
 		@Override
 		protected void onPostExecute(Boolean result) {
-			Toast.makeText(getApplicationContext(), "成功发送到服务器，感谢您的反馈", 1000).show();
+			Toast.makeText(getApplicationContext(), "成功将崩溃信息发送到服务器，感谢您的反馈", 1000).show();
 			Log.d("TAG", "发送完成");
 			
 		}
