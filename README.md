@@ -339,6 +339,6 @@
 
 通过上面的文件，我们就可以分析什么时候产生崩溃，什么机型下会产生崩溃。
 
-Android里有一种崩溃(严格意义将不叫崩溃)是捕获不到的，那就是ANR，关于ANR的相关知识可以阅读我的另一篇博文[http://cym.so/2014/09/25/ANR%E5%AE%8C%E5%85%A8%E8%A7%A3%E6%9E%90.html](http://cym.so/2014/09/25/ANR%E5%AE%8C%E5%85%A8%E8%A7%A3%E6%9E%90.html "http://cym.so/2014/09/25/ANR%E5%AE%8C%E5%85%A8%E8%A7%A3%E6%9E%90.html")
+Android里有一种崩溃(严格意义将不叫崩溃)是捕获不到的，那就是ANR，关于ANR的相关知识可以阅读我的另一篇博文[http://blog.saymagic.me/2014/09/25/ANR%E5%AE%8C%E5%85%A8%E8%A7%A3%E6%9E%90.html](http://cym.so/2014/09/25/ANR%E5%AE%8C%E5%85%A8%E8%A7%A3%E6%9E%90.html "http://blog.saymagic.me/2014/09/25/ANR%E5%AE%8C%E5%85%A8%E8%A7%A3%E6%9E%90.html")
 
-原文链接:[http://cym.so/2014/09/25/Android%E5%B4%A9%E6%BA%83%E5%AE%8C%E5%85%A8%E8%A7%A3%E6%9E%90.html](http://cym.so/2014/09/25/Android%E5%B4%A9%E6%BA%83%E5%AE%8C%E5%85%A8%E8%A7%A3%E6%9E%90.html)
+原文链接:[http://blog.saymagic.me/2014/09/25/Android%E5%B4%A9%E6%BA%83%E5%AE%8C%E5%85%A8%E8%A7%A3%E6%9E%90.html](http://blog.saymagic.me/2014/09/25/Android%E5%B4%A9%E6%BA%83%E5%AE%8C%E5%85%A8%E8%A7%A3%E6%9E%90.html)
